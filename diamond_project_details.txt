@@ -1,0 +1,12 @@
+About Dataset
+The data contains 53940 records for training. Short descriptions of the business meaning of each column in the data is as below:
+carat: The carat value of the Diamond
+cut: The cut type of the Diamond, it determines the shine (Ideal' 'Premium' 'Good' 'Very Good' 'Fair')
+color: The color value of the Diamond ('E' 'I' 'J' 'H' 'F' 'G' 'D')
+clarity: The carat type of the Diamond ('SI2' 'SI1' 'VS1' 'VS2' 'VVS2' 'VVS1' 'I1')
+depth: The depth value of the Diamond
+table: Flat facet on its surface — the large, flat surface facet that you can see when you look at the diamond from above.
+x: Width of the diamond
+y: Length of the diamond
+z: Height of the diamond
+price: The price of the Diamond in USD.
